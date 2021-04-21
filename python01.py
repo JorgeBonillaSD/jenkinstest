@@ -5,7 +5,7 @@
 def main():
 
     # this will be displayed to standard out
-    print("You have 13 hours in which to solve the labyrinth...", end="\n\n")
+    print("You have 13 hours in which to solve the labyrinth...", end="\n")
     print("Execute this script when the build runs.")
     
 if __name__ == "__main__":
