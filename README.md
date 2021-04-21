@@ -1,4 +1,4 @@
 # jenkinstest
 Test Repository for Jenkins Certification
 
-Engage webhook
+Engage webhook. Run script when making commits.
