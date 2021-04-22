@@ -4,7 +4,8 @@
 
 def main():
 
-    # this will be displayed to standard out
+    # this will be displayed to standard out.
+    # Save this as an artifact
     print("You have 13 hours in which to solve the labyrinth...", end="\n")
     print("Execute this script when the build runs.")
     
